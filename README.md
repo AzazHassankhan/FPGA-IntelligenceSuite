@@ -1,1 +1,1 @@
-# Development-of-machine-learning-models-on-FPGA
+# Machine_Learning_Models_FPGA
