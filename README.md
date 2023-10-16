@@ -42,5 +42,3 @@ Are you passionate about AI, FPGA, or both? Connect with us to exchange ideas, c
 Have questions or ideas? Reach out to us via email or website to start the conversation.  
 
 Let's embark on this journey to empower AI with the efficiency and speed of FPGA technology. 🚀  
-
-Feel free to customize the description with your project's specific details, website, and contact information.  
