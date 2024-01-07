@@ -1,6 +1,6 @@
-# Machine_Learning_Models_FPGA
+# FPGA Intelligence Suite
 
-Welcome to the "Machine_Learning_Models_FPGA" repository! This project showcases the fusion of cutting-edge machine learning techniques with the power of Field-Programmable Gate Arrays (FPGAs). Our goal is to harness the capabilities of FPGA hardware to accelerate and optimize machine learning model deployment.
+Welcome to the "FPGA Intelligence Suite" repository! This project showcases the fusion of cutting-edge machine learning techniques with the power of Field-Programmable Gate Arrays (FPGAs). Our goal is to harness the capabilities of FPGA hardware to accelerate and optimize machine learning model deployment.
 
 ### Hardware Used
 
